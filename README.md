@@ -10,8 +10,10 @@
 💬 Ask me about Machine Learning, MERN Stack, Chess Prediction System
 
 ⚡ Built ML models:
-    ♟️ Chess Champion Predictor (89% accuracy)
-    🎮 League of Legends Predictor (82% accuracy)
+
+♟️ Chess Champion Predictor (89% accuracy)
+
+🎮 League of Legends Predictor (82% accuracy)
 
 
 ## 🌐 Socials:
