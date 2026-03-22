@@ -1,5 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my AI Chatbot by integrating advanced Retrieval-Augmented Generation (RAG) techniques using document embeddings.<br><br>👯 I’m looking to collaborate on open-source full-stack projects involving the MERN stack or Django-based AI applications.<br><br>🤝 I’m looking for help with mastering advanced CI/CD pipeline optimizations and large-scale cloud architecture on AWS.<br><br>🌱 I’m currently learning the nuances of deep learning architectures like RNNs and perfecting my model optimization skills in TensorFlow and Keras.<br><br>💬 Ask me about Machine Learning, MERN stack development, or how I achieved 89% accuracy on my Chess Champion prediction system.<br><br>⚡ Fun fact I once built a machine learning model that predicts League of Legends match outcomes with 82% accuracy.
+🔭 Currently working on AI Chatbot with RAG (Retrieval-Augmented Generation) using document embeddings
+👯 Looking to collaborate on MERN stack & Django AI projects
+🤝 Exploring CI/CD pipelines & AWS cloud architecture
+🌱 Learning Deep Learning (RNNs, TensorFlow, Keras)
+💬 Ask me about Machine Learning, MERN Stack, Chess Prediction System
+⚡ Built ML models:
+    ♟️ Chess Champion Predictor (89% accuracy)
+    🎮 League of Legends Predictor (82% accuracy)
 
 
 ## 🌐 Socials:
