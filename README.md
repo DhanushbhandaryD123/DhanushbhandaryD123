@@ -1,9 +1,14 @@
 # 💫 About Me:
 🔭 Currently working on AI Chatbot with RAG (Retrieval-Augmented Generation) using document embeddings
+
 👯 Looking to collaborate on MERN stack & Django AI projects
+
 🤝 Exploring CI/CD pipelines & AWS cloud architecture
+
 🌱 Learning Deep Learning (RNNs, TensorFlow, Keras)
+
 💬 Ask me about Machine Learning, MERN Stack, Chess Prediction System
+
 ⚡ Built ML models:
     ♟️ Chess Champion Predictor (89% accuracy)
     🎮 League of Legends Predictor (82% accuracy)
